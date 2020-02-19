@@ -123,10 +123,10 @@ header .profile-image:hover {
     padding-top: 10px;
 }
 
-.otaku {
+.custom {
     margin:0 30px;
 }
-.otaku .card {
+.custom .card {
     flex:1 0 auto;
     max-width: 100%;
     margin:30px auto;
@@ -213,16 +213,16 @@ a.social:hover {
       margin: 0 auto;
   }
 
-  .flex.otaku {
+  .flex.custom {
       flex-wrap:wrap;
       margin:0 auto;
   }
-  .flex.otaku .card {
+  .flex.custom .card {
       flex:1 0 50%;
       max-width: calc(50% - 2rem);
       margin:10px auto 20px;
   }
-  .flex.otaku .card.full-width {
+  .flex.custom .card.full-width {
       flex:1 0 100%;
       max-width: calc(100% - 2rem);
   }
